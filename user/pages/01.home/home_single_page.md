@@ -17,6 +17,4 @@ content:
             - _clients
             - _team
             - _where_we_are
-            - _contacts
 ---
-<link rel="shortcut icon" href="/scholarship_new/favicon.ico" type="image/x-icon" />
