@@ -2,7 +2,6 @@
 cache_enable: false
 visible: false
 ---
-<link rel="shortcut icon" href="/scholarship_new/favicon.ico" type="image/x-icon" />
 
 [g-navbar id="navbar1" name=navbar1 fixed=top centering=none brand_text="Richard Holland Memorial Scholarship" render=false]
     [g-navbar-menu name=menu0 alignment="center" submenu="internal,components" attributes="class:highdensity-menu"][/g-navbar-menu]    
