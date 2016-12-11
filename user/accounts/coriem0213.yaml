@@ -1,0 +1,11 @@
+email: coriem0213@gmail.com
+fullname: 'Corie Miller'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$QOucNPMZSYFhm8E3GqQKTOzGr5V3c9Nuh0ylinb2dU59DxfhXbsCm

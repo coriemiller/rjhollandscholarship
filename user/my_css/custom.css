@@ -1,0 +1,56 @@
+html *
+{
+   font-family: Georgia, "Times New Roman", Times, serif ;
+/*   color: #2c3e50;
+*/   font-weight: normal !important;
+   
+}
+#navbar2 > ul.nav.navbar-nav.social-menu.navbar-right > li > a {
+	font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+
+}
+/*
+.navbar {
+    font-family: "Raleway", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}*/
+
+h1, h2 {
+	font-family: Georgia, "Times New Roman", Times, serif !important;
+
+}
+
+.row {
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
+
+img {
+	width: 100%;
+}
+
+
+#header > div > div > h1 {
+	margin-top: 260px;
+}
+
+#body {
+	text-align: left;
+}
+
+p, .panel, li {
+	text-align: left;
+}
+body > footer > div > div:nth-child(2) > div > p {
+	text-align: center;
+	color: white !important;
+
+
+}
+body > footer > div > div:nth-child(3) > div{
+	color: white !important;
+}
+
+
+/*.callout {
+	pading:5px;
+}*/

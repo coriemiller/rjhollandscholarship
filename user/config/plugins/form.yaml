@@ -1,0 +1,12 @@
+enabled: true
+built_in_css: true
+files:
+  multiple: true
+  limit: 10
+  filesize: 5
+  destination: self@
+  avoid_overwriting: false
+  random_name: false
+  accept:
+    - application/pdf
+    - application/msword
