@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1481081500,
-    'checksum' => '58bea00b014f43b44b3a6805083c094c',
+    'timestamp' => 1481496903,
+    'checksum' => 'ad8ec83fb973dc7703f53107503f72fb',
     'files' => [
         'user/config' => [
             'blog-injector' => [
@@ -12,6 +12,10 @@ return [
             'media' => [
                 'file' => 'user/config/media.yaml',
                 'modified' => 1480993532
+            ],
+            'plugins/admin' => [
+                'file' => 'user/config/plugins/admin.yaml',
+                'modified' => 1481496894
             ],
             'plugins/custom-css' => [
                 'file' => 'user/config/plugins/custom-css.yaml',
@@ -151,7 +155,7 @@ return [
         'plugins' => [
             'admin' => [
                 'enabled' => true,
-                'route' => '/admin',
+                'route' => '/scholarship-admin',
                 'cache_enabled' => false,
                 'theme' => 'grav',
                 'logo_text' => '',
