@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1481496903,
-    'checksum' => 'ad8ec83fb973dc7703f53107503f72fb',
+    'timestamp' => 1481498011,
+    'checksum' => '610b2c60ab79c880a0f39f73b4de1c2c',
     'files' => [
         'user/config' => [
             'blog-injector' => [
@@ -35,7 +35,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1480994478
+                'modified' => 1481498011
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -729,7 +729,7 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'Richard Holland Memorial Scholarship',
             'author' => [
                 'name' => 'Corie Miller',
                 'email' => 'coriem0213@gmail.com'
@@ -739,7 +739,7 @@ return [
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+                'description' => 'The Richard Holland Memorial Scholarship was established to remember the life and legacy of a great man, friend, son, and brother. '
             ],
             'summary' => [
                 'enabled' => true,
