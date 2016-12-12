@@ -1,7 +1,5 @@
 ---
 title: Home
-metadata:
-  description: You can use the Gravstrap Theme to easily build a single page web site.
 
 slug: gravstrap-theme-simple-page-example
 
