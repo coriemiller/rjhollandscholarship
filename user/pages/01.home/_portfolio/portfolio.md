@@ -18,14 +18,14 @@ The Holland Family Legacy Foundation has established the Richard Holland Memoria
 
 <br>
 
-[g-panel heading_title="Criteria"]
+[g-panel heading_title="Eligibility"]
 * 3.5 GPA (on 4.0 scale for High School applicant) or 3.0 GPA (on 4.0 scale for College applicant)
 * Plan to enroll or be enrolled in full time undergraduate study at an accredited four-year college or university for the entire academic year.
 [/g-panel]
-[g-panel heading_title="Eligibility"]
+[g-panel heading_title="Criteria"]
 The selection board will evaluate applications considering the following criteria:
-
-* Prior academic performance, as reflected in grade point average.
+<ul>
+* Prior academic performance, as reflected in grade point average. 
 * Performance on standardized aptitude tests such as SAT and ACT.
 * Demonstrated leadership and personal attributes.
 * Applicant’s goals and aspirations.
@@ -34,7 +34,7 @@ The selection board will evaluate applications considering the following criteri
 * Recommendation from a peer.
 * Community Service.
 * Work History.
-* Financial need.
-
+* Financial need. 
+</ul>
 [/g-panel]
 [/g-portfolio]
