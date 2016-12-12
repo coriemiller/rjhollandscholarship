@@ -5,7 +5,7 @@ menu: Richard
 ---
 
 
-[g-what-we-do name="what_we_do" attributes="class:what-we-do module" column_attributes="id:_what_we_do,class:col-md-14"]
+[g-what-we-do name="what_we_do" attributes="class:what-we-do module" column_attributes="id:_richard,class:col-md-14"]
 
 # About Richard
 

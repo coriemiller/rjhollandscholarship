@@ -12,9 +12,9 @@ content:
         dir: asc
         custom:
             - _header
-            - _portfolio            
-            - _what_we_do
-            - _clients
-            - _team
-            - _where_we_are
+            - _scholarship            
+            - _richard
+            - _apply
+            - _donate
+            - _photos
 ---

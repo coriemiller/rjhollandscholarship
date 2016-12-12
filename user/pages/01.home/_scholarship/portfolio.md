@@ -4,7 +4,7 @@ menu: Scholarship
 
 ---
 
-[g-portfolio attributes="id:_portfolio,class:portfolio module container-fluid"]
+[g-portfolio attributes="id:_scholarship,class:portfolio module container-fluid"]
 # About the Scholarship
 
 <br>

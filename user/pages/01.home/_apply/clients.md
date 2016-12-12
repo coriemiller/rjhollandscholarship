@@ -4,7 +4,7 @@ menu: Apply
 
 ---
 
-[g-clients attributes="id:_clients,class:clients module"]
+[g-clients attributes="id:_apply,class:clients module"]
 
 # Apply 
 

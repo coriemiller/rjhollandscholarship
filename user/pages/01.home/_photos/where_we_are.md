@@ -2,7 +2,7 @@
 menu: Photos
 ---
 
-[g-where-we-are attributes="id:_where_we_are,class:module where-we-are"]
+[g-where-we-are attributes="id:_photos,class:module where-we-are"]
 # Photos
 
 <br>

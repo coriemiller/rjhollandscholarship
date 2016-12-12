@@ -3,7 +3,7 @@
 menu: Donate
 
 ---
-[g-team attributes="id:_team,class:team module"]
+[g-team attributes="id:_donate,class:team module"]
 ## Donate
 <br>
 
