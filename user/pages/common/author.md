@@ -12,7 +12,7 @@ visible: false
 
 [g-footer-one name="footer" render=false]
 [g-section name="credits"]
-Contact us at application@rjhollandscholarship.org
+Contact us at <a href="mailto:info@rjhollandscholarship.org">info@rjhollandscholarship.org</a>
 [/g-section]
 
 [g-section name="copyright"]The Richard Holland Scholarship Selection Committee[/g-section]
