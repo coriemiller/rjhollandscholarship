@@ -7,7 +7,7 @@ menu: Donate
 ## Donate
 <br>
 
-Please make donation checks payable to "Fidelity Charitable Gift Fund." The memo line on the check should list "Account # 1040545" (The Richard Holland Scholarship Fund).
+The Richard Holland Scholarship Fund (Account # 1040545) is a donor-advised fund established under the Fidelity Charitable Gift Fund.  Please include your name and mailing address with the donation check to ensure return from Fidelity Charitable of a receipt for income tax deduction purposes.
 
 > Fidelity Charitable Gift Fund
 
