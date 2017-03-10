@@ -22,6 +22,7 @@ menu: Apply
 <br>
 
 [g-panel heading_title="Application Process"]
+* Email info@rjhollandscholarship.org with questions.
 * Applications will be accepted online starting January 1 through March 15.
 * The Holland Family Legacy Foundation will appoint the scholarship selection board.
 * The National Speech and Debate Association will notify the recipient of the scholarship by May 1.
